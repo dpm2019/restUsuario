@@ -1,2 +1,2 @@
-# restUsuario
-restUsuario
+# restUsuarios
+restUsuarios
